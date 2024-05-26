@@ -2,15 +2,6 @@
 
 Welcome to my GitHub oasis! I'm an *insatiably curious* **problem solver**, a **thinker** who dreams big, and a **developer** with an *unquenchable thirst for creativity*. I love pushing the boundaries of what's possible, whether that's through coding, exploring the *wonders of nature*, or gazing at the *stars*. Here's a little glimpse into my world:
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Current Learning Topic]
-- 👯 I’m looking to collaborate on innovative and impactful projects
-- 🤔 I’m looking for help with [Any Area You Need Help With]
-- 💬 Ask me about web development, open-source contributions, or any tech-related topics
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A Fun Fact About You]
-
 ### 🛠️ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
